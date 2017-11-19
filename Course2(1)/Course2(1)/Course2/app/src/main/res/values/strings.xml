@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Course2</string>
+
+    <string name="interest_prompt">兴趣爱好</string>
+    <string-array name="grade">
+        <item>一年级</item>
+        <item>二年级</item>
+        <item>三年级</item>
+        <item>四年级</item>
+    </string-array>
+
+</resources>
